@@ -1,0 +1,13 @@
+<?xml version='1.0'?>
+<people>
+    <contact name="aakash" email="aakash@gmail.com" relation="friend" phoneNumber="456546234342"/>
+    <contact name="john" email="jon@gmail.com" relation="coworker" phoneNumber="22992343"/>
+    <contact name="jason" email="jon@gmail.com" relation="friend" phoneNumber="4456567"/>
+    <contact name="kathy" email="kathy@gmail.com" relation="friend" phoneNumber="12322312321"/>
+    <contact name="katie" email="katie@gmail.com" relation="family" phoneNumber="288888423"/>
+    <contact name="karrie" email="karrie@gmail.com" relation="family" phoneNumber="999999923433"/>
+    <contact name="rohit" email="rohit@gmail.com" relation="family" phoneNumber="13213"/>
+    <contact name="ram" email="ram@gmail.com" relation="family" phoneNumber="234343543"/>
+    <contact name="roger" email="roger@gmail.com" relation="friend" phoneNumber="77889892"/>
+    <contact name="sudin" email="sudin@gmail.com" relation="friend" phoneNumber="989892343"/>
+</people>
